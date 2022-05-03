@@ -1,0 +1,18 @@
+{
+  "name": "csvparcels",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "firebase": "^9.6.11",
+    "node-fetch": "^3.2.4",
+    "strip-bom-stream": "^5.0.0"
+  },
+  "type": "module"
+}
